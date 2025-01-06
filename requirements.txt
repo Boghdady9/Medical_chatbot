@@ -1,0 +1,9 @@
+transformers
+torch
+tensorflow
+datasets
+numpy
+tokenizers
+gradio
+tf_keras
+peft
